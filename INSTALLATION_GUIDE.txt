@@ -1,0 +1,111 @@
+
+# 🕵️‍♂️ Windows Forensic Analysis Tool - by Kunal Choudhary
+
+A professional-grade tool for recovering deleted files, analyzing logs, and generating legal forensic reports. Designed for investigators, cybersecurity professionals, and digital forensics learners.
+
+---
+
+## 🔧 Quick Installation (One Click Setup)
+
+### 🔹 Recommended for Windows Users
+1. Extract all files to a folder (e.g., `C:\ForensicTool\`)
+2. Double-click **`one_click_setup.bat`**
+3. The tool will:
+   - Auto-install Python (if not already installed)
+   - Install required libraries
+   - Launch the tool GUI (`launch_gui.py`)
+
+> ✅ No need to install anything manually!
+
+---
+
+## 🖐 Manual Installation (Advanced Users)
+1. Extract all files
+2. Open CMD in the extracted folder
+3. Run:
+   ```
+   pip install pandas psutil pyautogui
+   ```
+4. Then:
+   ```
+   python launch_gui.py
+   ```
+
+---
+
+## ✅ To Test the Tool
+Run the following to validate:
+```
+python test_forensic_tool.py
+```
+
+---
+
+## 💻 System Requirements
+- Windows 10/11 (Recommended) or Windows 7+
+- Python 3.6+ (Auto-installed if missing)
+- Admin privileges recommended
+- 4GB+ RAM (8GB recommended)
+- 1GB+ free disk space
+
+---
+
+## 🚀 Features Included
+- ✅ **Deleted File Recovery** (Recycle Bin + NTFS)
+- ✅ **Log Analysis** (System, Browser logs)
+- ✅ **Timeline Creation** (Chronological mapping)
+- ✅ **Evidence Collection** (Chain of custody, Export)
+- ✅ **Professional Reporting** (CSV + HTML)
+- ✅ **Modern GUI** (PyQt5-like experience)
+
+---
+
+## 🔍 Core Modules
+- **FileRecoveryEngine** – Recycle Bin & NTFS undelete
+- **LogAnalyzer** – Windows Event Logs + Browser History
+- **TimelineCreator** – User action mapping
+- **EvidenceCollector** – Custody tracking + hash verification
+- **ReportGenerator** – Legal-ready reports
+
+---
+
+## 🔐 Legal & Security Compliance
+- SHA-256 hashing
+- Non-destructive read-only scans
+- Professional audit trail + reporting
+- Chain of custody documentation
+
+---
+
+## 🛠 Troubleshooting
+
+### PyQt5/GUI Issues?
+> This tool uses `pyautogui` instead of PyQt GUI. If future GUI uses PyQt5:
+```
+pip install --user PyQt5
+```
+
+### Permission Errors?
+- Run `one_click_setup.bat` or CMD as Administrator
+- Whitelist the tool folder in your antivirus
+
+### Browser History Issues?
+- Close browser instances before running tool
+- Clear browser cache if necessary
+
+---
+
+## 📄 Documentation
+- Read `README.md` after extraction
+- Contains tool usage, architecture, legal compliance
+
+---
+
+## 📌 Version Info
+- Version: 1.0
+- Build Date: August 2025
+- Platform: Windows (Cross-platform ready)
+
+---
+
+**Made with ❤️ by Kunal Choudhary**

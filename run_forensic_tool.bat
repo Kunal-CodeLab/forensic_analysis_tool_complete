@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+pip install PyQt5 send2trash python-evtx browser-history
+echo Starting Forensic Analysis Tool...
+python forensic_analysis_tool.py
+pause

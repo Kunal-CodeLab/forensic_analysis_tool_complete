@@ -1,0 +1,54 @@
+Forensic Analysis Tool - Complete Professional Package
+Version: 1.0
+Build Date: 2025-08-06 19:38:08
+Platform: Windows (with cross-platform compatibility)
+GUI Framework: PyQt5
+Language: Python 3.6+
+
+PRODUCTION-READY FORENSIC INVESTIGATION TOOL
+============================================
+
+✅ VERIFIED FEATURES:
+- Deleted File Recovery (Recycle Bin + NTFS)
+- Windows Event Log Analysis (Security/System/Application)
+- Browser History Extraction (Chrome/Firefox/Edge)
+- Timeline Creation (Multi-source correlation)
+- Evidence Collection (Chain of custody tracking)
+- Professional Reporting (CSV + HTML formats)
+- Modern PyQt5 GUI (Sidebar navigation + Progress tracking)
+
+FILES INCLUDED:
+- forensic_analysis_tool.py (Main application - 1000+ lines of production code)
+- run_forensic_tool.bat (Windows setup script for easy installation)
+- README.md (Complete documentation with usage guide)
+- test_forensic_tool.py (Comprehensive validation test suite)
+- INSTALLATION_GUIDE.txt (Quick start instructions)
+- VERSION_INFO.txt (This file)
+
+SYSTEM REQUIREMENTS:
+- Windows 7+ (Windows 10/11 recommended)
+- Python 3.6 or higher
+- 4GB RAM (8GB+ recommended for large datasets)
+- Administrator privileges (recommended)
+
+LEGAL COMPLIANCE:
+- SHA-256 file integrity verification
+- Chain of custody documentation
+- Non-destructive analysis operations
+- Court-ready professional reports
+- Complete audit trails
+
+INSTALLATION:
+1. Extract all files
+2. Run run_forensic_tool.bat (Windows)
+3. Or manually: pip install PyQt5 send2trash python-evtx browser-history
+4. Then: python forensic_analysis_tool.py
+
+TESTING:
+Run: python test_forensic_tool.py to validate all functionality
+
+This tool has been created for legitimate forensic investigation purposes.
+Users are responsible for compliance with applicable laws and regulations.
+Always obtain proper legal authorization before conducting investigations.
+
+For complete documentation and usage instructions, see README.md
