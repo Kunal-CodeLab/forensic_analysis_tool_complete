@@ -10,6 +10,12 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 - **File Metadata Extraction**: Timestamps, file sizes, SHA-256 hashes
 - **Cross-platform Compatibility**: Works on Windows, Linux, and macOS
 
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/1.jpg)
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/2.jpg)
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/3.jpg)
+
 ### ✅ Log Analysis
 - **Windows Event Logs**: Analyze Security, System, and Application logs
 - **Browser History Extraction**: 
@@ -19,12 +25,18 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 - **Application Logs**: Parse available application-specific logs
 - **Automated Processing**: Bulk analysis with progress tracking
 
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/4.jpg)
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/5.jpg)
+
 ### ✅ Timeline Creation
 - **Chronological Activity Mapping**: User login/logout events
 - **File System Activity**: File creation, modification, access timestamps  
 - **Web Browsing Timeline**: Visited URLs with timestamps
 - **System Events**: Correlated system and application events
 - **Interactive Timeline View**: Sortable and filterable results
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/6.jpg)
 
 ### ✅ Evidence Collection
 - **Chain of Custody**: Automated evidence tracking with metadata
@@ -35,6 +47,10 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 - **Metadata Preservation**: Original timestamps and file attributes
 - **Investigation Reports**: JSON-formatted custody records
 
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/7.jpg)
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/8.jpg)
+
 ### ✅ Professional Reporting
 - **CSV Export**: Structured data for analysis tools
 - **HTML Reports**: Professional, legally-formatted reports with:
@@ -43,6 +59,8 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
   - Timestamp correlation and analysis
   - Evidence chain documentation
 - **Report Templates**: Standardized formatting for legal proceedings
+
+![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/9.jpg)
 
 ## 🖥️ GUI Interface
 
