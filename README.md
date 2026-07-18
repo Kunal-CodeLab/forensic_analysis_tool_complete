@@ -2,9 +2,9 @@
 
 A comprehensive, production-ready forensic investigation tool with a modern PyQt5 GUI interface. This tool provides five core forensic analysis modules for Windows systems, designed for legal investigation and digital evidence collection.
 
-## 🚀 Features
+##  Features
 
-### ✅ Deleted File Recovery
+###  Deleted File Recovery
 - **Recycle Bin Recovery**: Scan and recover files from Windows Recycle Bin
 - **NTFS Deleted File Scan**: Attempt recovery of accidentally deleted files using MFT analysis
 - **File Metadata Extraction**: Timestamps, file sizes, SHA-256 hashes
@@ -16,7 +16,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/3.jpg)
 
-### ✅ Log Analysis
+###  Log Analysis
 - **Windows Event Logs**: Analyze Security, System, and Application logs
 - **Browser History Extraction**: 
   - Google Chrome history and metadata
@@ -29,7 +29,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/5.jpg)
 
-### ✅ Timeline Creation
+###  Timeline Creation
 - **Chronological Activity Mapping**: User login/logout events
 - **File System Activity**: File creation, modification, access timestamps  
 - **Web Browsing Timeline**: Visited URLs with timestamps
@@ -38,7 +38,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/6.jpg)
 
-### ✅ Evidence Collection
+###  Evidence Collection
 - **Chain of Custody**: Automated evidence tracking with metadata
 - **File Hash Verification**: SHA-256 integrity checking
 - **Export Formats**: 
@@ -51,7 +51,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/8.jpg)
 
-### ✅ Professional Reporting
+###  Professional Reporting
 - **CSV Export**: Structured data for analysis tools
 - **HTML Reports**: Professional, legally-formatted reports with:
   - Investigation summary and statistics
@@ -62,7 +62,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ![Image Alt](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete/blob/7fafd2ba268d7646a5fe124d2e3369f69a886d49/9.jpg)
 
-## 🖥️ GUI Interface
+##  GUI Interface
 
 ### Modern PyQt5 Design
 - **Sidebar Navigation**: Intuitive module selection
@@ -78,7 +78,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 - **Error Handling**: Graceful failure recovery with user notifications
 - **Threading**: Non-blocking operations for smooth performance
 
-## 📋 System Requirements
+##  System Requirements
 
 - **Operating System**: Windows 10/11 (recommended), Windows 7+
 - **Python Version**: Python 3.6 or higher
@@ -86,11 +86,11 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 - **Storage**: 1GB free space for temporary files and exports
 - **Privileges**: Administrator rights (recommended for full functionality)
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
-## 🔧 Quick Installation (One Click Setup)
+##  Quick Installation (One Click Setup)
 
-### 🔹 Recommended for Windows Users
+###  Recommended for Windows Users
 1. Extract all files to a folder (e.g., `C:\ForensicTool\`)
 2. Double-click **`one_click_setup.bat`**
 3. The tool will:
@@ -98,11 +98,11 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
    - Install required libraries
    - Launch the tool GUI (`launch_gui.py`)
 
-> ✅ No need to install anything manually!
+>  No need to install anything manually!
 
 ---
 
-## 🖐 Manual Installation (Advanced Users)
+##  Manual Installation (Advanced Users)
 1. Extract all files
 2. Open CMD in the extracted folder
 3. Run:
@@ -116,7 +116,7 @@ A comprehensive, production-ready forensic investigation tool with a modern PyQt
 
 ---
 
-## ✅ To Test the Tool
+##  To Test the Tool
 Run the following to validate:
 ```
 python test_forensic_tool.py
@@ -129,7 +129,7 @@ python test_forensic_tool.py
 - **browser-history**: Multi-browser history extraction
 - **Standard Library**: sqlite3, csv, json, hashlib, threading
 
-## 🎯 Usage Guide
+##  Usage Guide
 
 ### 1. File Recovery Module
 1. **Navigate** to File Recovery tab
@@ -165,7 +165,7 @@ python test_forensic_tool.py
 3. **Generate HTML Report**: Professional investigation report
 4. **Review Output**: Examine generated reports before distribution
 
-## 📊 Technical Architecture
+##  Technical Architecture
 
 ### Core Components
 
@@ -206,7 +206,7 @@ python test_forensic_tool.py
 - **Error Handling**: Graceful failure management without data corruption
 - **Permission Handling**: Appropriate privilege escalation warnings
 
-## 📁 Output Files
+##  Output Files
 
 ### CSV Reports
 - **Structured Data**: Machine-readable format for analysis tools
@@ -227,7 +227,7 @@ python test_forensic_tool.py
 - **JSON Metadata**: Machine-readable evidence tracking
 - **Hash Verification**: Integrity checking for all collected files
 
-## ⚖️ Legal Compliance
+##  Legal Compliance
 
 ### Chain of Custody
 - **Automated Tracking**: Timestamp and user documentation
@@ -241,7 +241,7 @@ python test_forensic_tool.py
 - **Audit Trail**: Complete operation logging for legal review
 - **Professional Documentation**: Court-ready report formatting
 
-## 🔍 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -273,7 +273,7 @@ conda install pyqt
 - **Memory**: Minimum 8GB RAM recommended for large investigations
 - **Threading**: Background processing prevents GUI freezing
 
-## 📞 Support & Maintenance
+##  Support & Maintenance
 
 ### Regular Updates
 - **Dependency Management**: Keep libraries updated for security
@@ -287,7 +287,7 @@ conda install pyqt
 - **Database Schemas**: Update for new browser versions
 - **Log Sources**: Extend support for additional log types
 
-## 🏗️ Development Notes
+##  Development Notes
 
 ### Code Structure
 - **Modular Design**: Separate classes for each major function
@@ -307,7 +307,7 @@ conda install pyqt
 - **Performance Tests**: Large dataset handling verification
 - **Security Tests**: Evidence integrity validation
 
-## 📄 License & Disclaimer
+##  License & Disclaimer
 
 This tool is provided for legitimate forensic investigation purposes only. Users are responsible for compliance with applicable laws and regulations. The software is provided "as-is" without warranties. Always follow proper legal procedures and obtain appropriate authorization before conducting forensic investigations.
 
